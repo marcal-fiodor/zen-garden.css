@@ -1,0 +1,18 @@
+/* Color Theme Swatches in Hex 
+.principal { color: #014040; }
+.background { color: #03A678; }
+.destaque { color: #F27405; }
+*/
+
+html {
+    background-color: #03A678;
+    color: #014040;
+}
+
+html h1 {
+    color: #F27405;
+}
+
+html abbr {
+    color: #F27405;
+}
